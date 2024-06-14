@@ -1,0 +1,1 @@
+# js__escreverp5.js
